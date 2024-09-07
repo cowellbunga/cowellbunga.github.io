@@ -1,0 +1,27 @@
+# Project details
+site_name: Chandler Cowell's Portfolio
+site_url: https://cowellbunga.github.io/
+site_author: Chandler Cowell
+site_description: >-
+  I am Chandler Cowell, an economist and spatial analytics master's student. 
+  Welcome to my personal and professional page powered by Git/Github, Markdown, and Python.
+
+# Github Repo
+repo_name: cowellbunga/cowellbunga.github.io
+repo_url: https://github.com/cowellbunga/cowellbunga.github.io
+
+# Customization
+theme:
+  name: ivory
+
+# Navigation Tree
+nav:
+- Home: index.md
+- Core Competencies:
+  - "Programming": programming/README.md
+  - "Networking": networking/README.md
+- Active Projects:
+  - "Project 1": project1/README.md
+  - "Project 2": project2/README.md
+- Completed Projects:
+  - "Project A": projecta/README.md
