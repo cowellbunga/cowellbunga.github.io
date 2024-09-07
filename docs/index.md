@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# Welcome to Chandler's page!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## About Chandler
 
-## Commands
+I am Chandler Cowell, an economist and spatial analytics master's student. 
+More to come...
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Current Projects
 
-## Project layout
+More to come...
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[https://cowellbunga.github.io/](https://cowellbunga.github.io/)
+
+### Academic
+
+### Personal
+
+### Work
+
+## Completed Projects
+
+### Academic
+
+### Personal
+
+### Work
