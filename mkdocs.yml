@@ -12,7 +12,7 @@ repo_url: https://github.com/cowellbunga/cowellbunga.github.io
 
 # Customization
 theme:
-  name: ivory
+  name: material
 
 # Navigation Tree
 nav:
