@@ -12,16 +12,21 @@ repo_url: https://github.com/cowellbunga/cowellbunga.github.io
 
 # Customization
 theme:
-  name: material
+  name: terminal
+  features:
+    - navigation.side.indexes
 
 # Navigation Tree
 nav:
-- Home: index.md
-- Core Competencies:
-  - "Programming": programming/README.md
-  - "Networking": networking/README.md
-- Active Projects:
-  - "Project 1": project1/README.md
-  - "Project 2": project2/README.md
-- Completed Projects:
-  - "Project A": projecta/README.md
+  - Home: index.md
+  - Core Competencies:
+    - Index: competencies/index.md
+    - Databases and Database Management: competencies/databases.md
+    - Modeling and Analytics: competencies/analytics.md
+    - Programming: competencies/programming.md
+    - Web Services: competencies/web.md
+  - Active Projects:
+    - Project 1: project1/README.md
+    - Project 2: project2/README.md
+  - Completed Projects:
+    - Project A: projecta/README.md

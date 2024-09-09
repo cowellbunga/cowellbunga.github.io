@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://cowellbunga.github.io/</loc>
-         <lastmod>2024-09-07</lastmod>
+         <lastmod>2024-09-09</lastmod>
     </url>
     <url>
-         <loc>https://cowellbunga.github.io/networking/</loc>
-         <lastmod>2024-09-07</lastmod>
+         <loc>https://cowellbunga.github.io/competencies/</loc>
+         <lastmod>2024-09-09</lastmod>
     </url>
     <url>
-         <loc>https://cowellbunga.github.io/programming/</loc>
-         <lastmod>2024-09-07</lastmod>
+         <loc>https://cowellbunga.github.io/competencies/analytics/</loc>
+         <lastmod>2024-09-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cowellbunga.github.io/competencies/databases/</loc>
+         <lastmod>2024-09-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cowellbunga.github.io/competencies/programming/</loc>
+         <lastmod>2024-09-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cowellbunga.github.io/competencies/web/</loc>
+         <lastmod>2024-09-09</lastmod>
     </url>
     <url>
          <loc>https://cowellbunga.github.io/project1/</loc>
-         <lastmod>2024-09-07</lastmod>
+         <lastmod>2024-09-09</lastmod>
     </url>
     <url>
          <loc>https://cowellbunga.github.io/project2/</loc>
-         <lastmod>2024-09-07</lastmod>
+         <lastmod>2024-09-09</lastmod>
     </url>
     <url>
          <loc>https://cowellbunga.github.io/projecta/</loc>
-         <lastmod>2024-09-07</lastmod>
+         <lastmod>2024-09-09</lastmod>
     </url>
 </urlset>
