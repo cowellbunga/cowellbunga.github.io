@@ -20,13 +20,11 @@ theme:
 nav:
   - Home: index.md
   - Core Competencies:
-    - Index: competencies/index.md
     - Databases and Database Management: competencies/databases.md
     - Modeling and Analytics: competencies/analytics.md
     - Programming: competencies/programming.md
     - Web Services: competencies/web.md
   - Projects:
-    - Index: projects/index.md
     - Active Projects:
       - Index: projects/active/index.md
       - Project 1: projects/active/project1.md
