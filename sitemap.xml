@@ -25,15 +25,31 @@
          <lastmod>2024-09-09</lastmod>
     </url>
     <url>
-         <loc>https://cowellbunga.github.io/project1/</loc>
+         <loc>https://cowellbunga.github.io/projects/</loc>
          <lastmod>2024-09-09</lastmod>
     </url>
     <url>
-         <loc>https://cowellbunga.github.io/project2/</loc>
+         <loc>https://cowellbunga.github.io/projects/active/</loc>
          <lastmod>2024-09-09</lastmod>
     </url>
     <url>
-         <loc>https://cowellbunga.github.io/projecta/</loc>
+         <loc>https://cowellbunga.github.io/projects/active/project1/</loc>
+         <lastmod>2024-09-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cowellbunga.github.io/projects/active/project2/</loc>
+         <lastmod>2024-09-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cowellbunga.github.io/projects/completed/</loc>
+         <lastmod>2024-09-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cowellbunga.github.io/projects/completed/project1/</loc>
+         <lastmod>2024-09-09</lastmod>
+    </url>
+    <url>
+         <loc>https://cowellbunga.github.io/projects/completed/project2/</loc>
          <lastmod>2024-09-09</lastmod>
     </url>
 </urlset>
