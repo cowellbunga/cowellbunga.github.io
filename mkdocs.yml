@@ -10,21 +10,39 @@ site_description: >-
 repo_name: cowellbunga/cowellbunga.github.io
 repo_url: https://github.com/cowellbunga/cowellbunga.github.io
 
-# Customization
+# Theme
 theme:
   name: terminal
   features:
     - navigation.side.indexes
+    - revision.date
+    - revision.history
+
+# Extensions
+markdown_extensions:
+  # Python Markdown  
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - meta
+  - toc:
+      permalink: "#"
+      permalink_title: Anchor link to this section for reference
+  # PyMdown Extensions
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.snippets:
+      base_path: 
+        - docs
 
 # Navigation Tree
 nav:
   - Home: index.md
-  - Core Competencies:
-    - Databases and Database Management: competencies/databases.md
-    - Modeling and Analytics: competencies/analytics.md
-    - Programming: competencies/programming.md
-    - Web Services: competencies/web.md
+  - Skills: skills.md
   - Projects:
+    - Index: projects/index.md
     - Active Projects:
       - Index: projects/active/index.md
       - Project 1: projects/active/project1.md
@@ -33,3 +51,11 @@ nav:
       - Index: projects/completed/index.md
       - Project 1: projects/completed/project1.md
       - Project 2: projects/completed/project2.md
+
+# Plugins
+plugins:
+  - search
+  - git-revision-date
+  - macros:
+      modules: 
+          - mkdocs-terminal:terminal.pluglets.tile_grid.main
