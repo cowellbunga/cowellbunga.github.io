@@ -25,8 +25,13 @@ nav:
     - Modeling and Analytics: competencies/analytics.md
     - Programming: competencies/programming.md
     - Web Services: competencies/web.md
-  - Active Projects:
-    - Project 1: project1/README.md
-    - Project 2: project2/README.md
-  - Completed Projects:
-    - Project A: projecta/README.md
+  - Projects:
+    - Index: projects/index.md
+    - Active Projects:
+      - Index: projects/active/index.md
+      - Project 1: projects/active/project1.md
+      - Project 2: projects/active/project2.md
+    - Completed Projects:
+      - Index: projects/completed/index.md
+      - Project 1: projects/completed/project1.md
+      - Project 2: projects/completed/project2.md
