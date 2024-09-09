@@ -1,5 +1,4 @@
-# Skills
-## Databases and Database Management
-## Modeling and Analytics
-## Programming
-## Web Services
+# Databases and Database Management
+# Modeling and Analytics
+# Programming
+# Web Services

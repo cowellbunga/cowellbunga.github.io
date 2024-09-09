@@ -1,5 +1,5 @@
 # Project details
-site_name: Chandler Cowell's Portfolio
+site_name: Chandler Cowell's Personal Page
 site_url: https://cowellbunga.github.io/
 site_author: Chandler Cowell
 site_description: >-
@@ -9,6 +9,7 @@ site_description: >-
 # Github Repo
 repo_name: cowellbunga/cowellbunga.github.io
 repo_url: https://github.com/cowellbunga/cowellbunga.github.io
+edit_uri: edit/main/docs/
 
 # Theme
 theme:
@@ -40,17 +41,20 @@ markdown_extensions:
 # Navigation Tree
 nav:
   - Home: index.md
-  - Skills: skills.md
+  - About: about.md
   - Projects:
     - Index: projects/index.md
     - Active Projects:
       - Index: projects/active/index.md
       - Project 1: projects/active/project1.md
       - Project 2: projects/active/project2.md
+      - Project 3: projects/active/project3.md
     - Completed Projects:
       - Index: projects/completed/index.md
       - Project 1: projects/completed/project1.md
       - Project 2: projects/completed/project2.md
+      - Project 3: projects/completed/project3.md
+  - Skills: skills.md
 
 # Plugins
 plugins:
