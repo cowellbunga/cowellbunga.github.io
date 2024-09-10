@@ -1,3 +1,7 @@
-# [Project 1 (academic)](project1.md)
-# [Project 2 (personal)](project2.md)
-# [Project 3 (work)](project3.md)
+# Completed Projects
+## 2024 
+* [Project 1](project1.md) [(academic)](../index.md)
+
+* [Project 2](project2.md) [(personal)](../index.md)
+
+* [Project 3](project3.md) [(work)](../index.md)

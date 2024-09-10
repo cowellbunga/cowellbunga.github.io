@@ -1,10 +1,20 @@
 ## Project Types
-* __Active__: I am currently developing on this project
+[`Active`](active/index.md)
 
-* __Academic__: project from coursework or otheracademic research
+: I am currently developing on this project
 
-* __Completed__: I have finished developing on or contributing to this project
+`Academic`
 
-* __Personal__: project established in my free time
+: project from coursework or other academic research
 
-* __Work__: project developed for a work assignment
+[`Completed`](completed/index.md)
+
+: I have completed my development on this project
+
+`Personal`
+
+: project established in my free time
+
+`Work`
+
+: project developed for a work assignment

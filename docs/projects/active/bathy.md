@@ -1,6 +1,9 @@
-# Applying a predictive model to produce bathymetric data from topographic data
-## [Active](index.md), [academic](../index.md) project
-### Course: [GIS 584 - Mapping and Analysis Using UAS](https://ncsu-geoforall-lab.github.io/gis-584-uas-course/)
+__Applying a predictive model to produce bathymetric data from topographic data__
+
+[Active](../index.md), [academic](../index.md) project
+
+__Course__: [GIS 584 - Mapping and Analysis Using UAS](https://ncsu-geoforall-lab.github.io/gis-584-uas-course/)
+
 ## Problem
 Bathymetric data is becoming more readily available for large bodies of water, especially in coastal areas. I have observed less availability of this data for small bodies of water (ex: lakes, ponds), especially those situated in forested areas. I would like to identify small, inland water bodies that lack high quality bathymetric data and then apply existing methods from [Martinsen et al. (2023)](https://aslopubs.onlinelibrary.wiley.com/doi/10.1002/lom3.10573) to fill the data gap. The products of the analysis will be used for 3D visualization and as inputs for future analyses, such as fishing condition forecasting and habitat modeling.
 

@@ -49,11 +49,13 @@ nav:
       - Applying a predictive model to produce bathymetric data from topographic data: projects/active/bathy.md
       - Project 2: projects/active/project2.md
       - Project 3: projects/active/project3.md
-    - Completed Projects:
+    - Completed Projects: 
       - Index: projects/completed/index.md
       - Project 1: projects/completed/project1.md
       - Project 2: projects/completed/project2.md
       - Project 3: projects/completed/project3.md
+  - Publications:
+    - Index: publications.md
   - Skills: skills.md
 
 # Plugins
