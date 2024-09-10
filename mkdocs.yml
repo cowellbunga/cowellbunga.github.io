@@ -46,7 +46,7 @@ nav:
     - Index: projects/index.md
     - Active Projects:
       - Index: projects/active/index.md
-      - Project 1: projects/active/project1.md
+      - Applying a predictive model to produce bathymetric data from topographic data: projects/active/bathy.md
       - Project 2: projects/active/project2.md
       - Project 3: projects/active/project3.md
     - Completed Projects:
