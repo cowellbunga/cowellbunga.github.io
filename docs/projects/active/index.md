@@ -1,5 +1,5 @@
-# Active Projects
-## 2024
+## Active Projects
+### 2024
 * [Applying a predictive model to produce bathymetric data from topographic data](bathy.md) [(academic)](../index.md)
 
 * [Project 2](project2.md)[(personal)](../index.md)

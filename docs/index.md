@@ -1,3 +1,3 @@
-# Welcome to Chandler's page!
+## Welcome to Chandler's page!
 
 More to come...

@@ -18,6 +18,8 @@ theme:
     - navigation.side.indexes
     - revision.date
     - revision.history
+extra_css: 
+  - overrides/multi-size-headers.css
 
 # Extensions
 markdown_extensions:
